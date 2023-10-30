@@ -1,0 +1,322 @@
+[
+    {
+        "_id": 1,
+        "name": "Raj Chowdhury",
+        "picture": "https://img.freepik.com/free-photo/photo-serious-handsome-guy-posing-against-white-wall_273609-20462.jpg?w=2000",
+        "year_of_experience": 10,
+        "likes": 1500,
+        "bio": "Raj is a passionate chef with over 10 years of experience in Indian cuisine. He loves experimenting with new flavors and creating unique dishes that bring people together.",
+        "number_of_recipes": 3,
+        "recipes": [
+            {
+                "name": "Chicken Tikka Masala",
+                "image": "https://c.ndtvimg.com/2022-07/33meqsb_chicken-tikka_625x300_08_July_22.png",
+                "ingredients": [
+                    "boneless chicken",
+                    "plain yogurt",
+                    "garlic",
+                    "ginger",
+                    "cumin",
+                    "paprika"
+                ],
+                "cooking_method": "1. In a bowl, mix together the chicken, yogurt, garlic, ginger, cumin, paprika, and salt to taste. Cover and refrigerate for at least 30 minutes.\n2. Heat oil in a large skillet over medium heat. Add the marinated chicken and cook until browned.\n3. Add diced tomatoes and cook until soft and saucy. Add heavy cream and simmer for a few minutes.\n4. Garnish with chopped cilantro and serve hot with rice or naan.",
+                "rating": 4.3
+            },
+            {
+                "name": "Palak Paneer",
+                "image": "https://www.seriouseats.com/thmb/lhYY8CqBJoDwxj57KFAiY9pORhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+                "ingredients": [
+                    "paneer",
+                    "spinach",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "cumin"
+                ],
+                "cooking_method": "1. Blanch the spinach in boiling water for 2-3 minutes. Drain and blend to a fine puree.\n2. Heat oil in a large skillet over medium heat. Add the cumin seeds and cook until fragrant.\n3. Add the onion, garlic, ginger, and sauté for a few minutes. \n4. Add the coriander powder, turmeric, and salt. Cook for another minute.\n5. Add the spinach puree and cook for 5-7 minutes.\n6. Add the cubed paneer and cook for another 2-3 minutes.\n7. Stir in the heavy cream and cook for another minute.\n8. Serve hot with rice or naan.",
+                "rating": 4.7
+            },
+            {
+                "name": "Biryani",
+                "image": "https://hamariweb.com/recipes/images/recipeimages/3464.jpg",
+                "ingredients": [
+                    "basmati rice",
+                    "oil",
+                    "onion",
+                    "tomatoes",
+                    "chicken",
+                    "spices"
+                ],
+                "cooking_method": "1. Soak basmati rice for half an hour and boil in water with a little salt. When cooked, drain and keep aside. \n2. In a pan, heat oil and fry onions until golden brown.\n3. Add diced tomatoes and chicken and fry for 5-7 minutes. \n4. Add spices and fry for a few minutes. \n5. Add the cooked rice and mix well. Cover and cook on low heat for 10 minutes.\n6. Serve hot with raita and salad.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Anjali",
+        "picture": "https://img.freepik.com/free-photo/ginger-man-hipster-eyewear-checkered-shirt-looks-serious-with-confident-facial-expression-recieves-necessary-information_273609-16969.jpg?w=2000",
+        "year_of_experience": 12,
+        "likes": 7070,
+        "bio": "Anjali is a seasoned chef with over 12 years of experience in Indian cuisine. She specializes in creating dishes that are both flavorful and healthy.",
+        "number_of_recipes": 10,
+        "recipes": [
+            {
+                "name": "Dal Makhani",
+                "image": "https://i.ndtvimg.com/i/2016-11/dal-makhani_620x350_41478501912.jpg",
+                "ingredients": [
+                    "black lentils",
+                    "kidney beans",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "garam masala"
+                ],
+                "cooking_method": "1. Soak black lentils and kidney beans overnight. Boil in water until soft.\n2. Heat oil in a large skillet over medium heat. Add the onions and cook until golden brown.\n3. Add the ginger and garlic and cook for a few minutes.\n4. Add the cooked lentils and beans to the skillet and mix well.\n5. Add garam masala, salt, and cream. Mix well and simmer for 10-15 minutes.\n6. Serve hot with rice or naan.",
+                "rating": 4.1
+            },
+            {
+                "name": "Chicken Korma",
+                "image": "https://c.ndtvimg.com/2022-07/33meqsb_chicken-tikka_625x300_08_July_22.png",
+                "ingredients": [
+                    "chicken",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "yogurt",
+                    "cashews"
+                ],
+                "cooking_method": "1. Heat oil in a large skillet over medium heat. Add the onions and cook until golden brown.\n2. Add the ginger and garlic and cook for a few minutes.\n3. Add the chicken and cook until browned.\n4. In a blender, blend yogurt and cashews to make a paste.\n5. Add the yogurt-cashew paste to the skillet and mix well.\n6. Add garam masala, salt, and cream. Mix well and simmer for 10-15 minutes.\n7. Serve hot with rice or naan.",
+                "rating": 4.8
+            },
+            {
+                "name": "Paneer Butter Masala",
+                "image": "https://cdn.shopify.com/s/files/1/2446/6407/files/Paneer_Butter_Masala_07.png?v=1668158322",
+                "ingredients": [
+                    "paneer",
+                    "onion",
+                    "tomatoes",
+                    "ginger",
+                    "garlic",
+                    "kasuri methi"
+                ],
+                "cooking_method": "1. Heat oil in a large skillet over medium heat. Add the onions and cook until golden brown.\n2. Add the ginger and garlic and cook for a few minutes.\n3. Add diced tomatoes and cook until soft.\n4. In a blender, blend the tomato-onion mixture to a smooth puree.\n5. Heat a little butter in a separate skillet. Add cubed paneer and fry until golden brown.\n6. Add the tomato-onion puree to the skillet and mix well.\n7. Add kasuri methi, garam masala, salt, and cream. Mix well and simmer for 10-15 minutes.\n8. Serve hot with rice or naan.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "Bridia Sharma",
+        "picture": "https://img.freepik.com/free-photo/portrait-blond-girl-using-cellphone-smiling-pleased-front-chatting-mobile-phone-standing-against-white-wall_176420-39426.jpg?w=2000",
+        "year_of_experience": 8,
+        "likes": 2600,
+        "bio": "Bridia sharma is a skilled chef with over 8 years of experience in Indian cuisine. He is passionate about creating dishes that are not only delicious but also visually appealing.",
+        "number_of_recipes": 7,
+        "recipes": [
+          {
+            "name": "Butter Chicken",
+            "image": "https://www.countdown.co.nz/Content/Recipes/227490_ButterChicken_large_810x570.jpg",
+            "ingredients": [
+              "chicken",
+              "tomatoes",
+              "cream",
+              "onion",
+              "ginger",
+              "garlic"
+            ],
+            "cooking_method": "1. Marinate the chicken in a mixture of yogurt, ginger, garlic, and spices for at least 2 hours.\n2. Grill the marinated chicken until cooked.\n3. In a large skillet, heat oil and add onions. Cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add diced tomatoes and cook until soft.\n6. Add cream and mix well.\n7. Add grilled chicken and cook for another 5 minutes.\n8. Serve hot with rice or naan.",
+            "rating": 4.9
+          },
+          {
+            "name": "Palak Paneer",
+            "image": "https://www.seriouseats.com/thmb/lhYY8CqBJoDwxj57KFAiY9pORhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+            "ingredients": [
+              "spinach",
+              "paneer",
+              "onion",
+              "ginger",
+              "garlic",
+              "garam masala"
+            ],
+            "cooking_method": "1. Boil spinach in water for 5-7 minutes. Drain and let it cool.\n2. Blend the boiled spinach to make a smooth puree.\n3. Heat oil in a large skillet. Add onions and cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add the spinach puree and cook for another 2-3 minutes.\n6. Add garam masala and salt to taste.\n7. Add cubed paneer and cook for another 5-7 minutes.\n8. Serve hot with rice or naan.",
+            "rating": 3.7
+          },
+          {
+            "name": "Aloo Gobi",
+            "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/09/Indian-Aloo-Gobi-480x270.jpg",
+            "ingredients": [
+              "potatoes",
+              "cauliflower",
+              "onion",
+              "tomatoes",
+              "ginger",
+              "cumin"
+            ],
+            "cooking_method": "1. Cut potatoes and cauliflower into small pieces.\n2. Heat oil in a large skillet. Add cumin seeds and cook for 1-2 minutes.\n3. Add chopped onions and cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add diced tomatoes and cook until soft.\n6. Add potatoes and cauliflower and mix well.\n7. Add garam masala and salt to taste.\n8. Cover and cook on medium heat for 15-20 minutes.\n9. Serve hot with rice or naan.",
+            "rating": 4.5
+          }
+        ]
+      },
+    {
+        "_id": 4,
+        "name": "Anit Kumar",
+        "picture": "https://img.freepik.com/free-photo/front-view-smiley-man-with-glasses-showing-thumbs-up_23-2148946244.jpg",
+        "year_of_experience": 8,
+        "likes": 5000,
+        "bio": "Anit Kumar is a skilled chef with over 8 years of experience in Indian cuisine. He is passionate about creating dishes that are not only delicious but also visually appealing.",
+        "number_of_recipes": 3,
+        "recipes": [
+          {
+            "name": "Butter Chicken",
+            "image": "https://www.countdown.co.nz/Content/Recipes/227490_ButterChicken_large_810x570.jpg",
+            "ingredients": [
+              "chicken",
+              "tomatoes",
+              "cream",
+              "onion",
+              "ginger",
+              "garlic"
+            ],
+            "cooking_method": "1. Marinate the chicken in a mixture of yogurt, ginger, garlic, and spices for at least 2 hours.\n2. Grill the marinated chicken until cooked.\n3. In a large skillet, heat oil and add onions. Cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add diced tomatoes and cook until soft.\n6. Add cream and mix well.\n7. Add grilled chicken and cook for another 5 minutes.\n8. Serve hot with rice or naan.",
+            "rating": 4.9
+          },
+          {
+            "name": "Palak Paneer",
+            "image": "https://www.seriouseats.com/thmb/lhYY8CqBJoDwxj57KFAiY9pORhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+            "ingredients": [
+              "spinach",
+              "paneer",
+              "onion",
+              "ginger",
+              "garlic",
+              "garam masala"
+            ],
+            "cooking_method": "1. Boil spinach in water for 5-7 minutes. Drain and let it cool.\n2. Blend the boiled spinach to make a smooth puree.\n3. Heat oil in a large skillet. Add onions and cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add the spinach puree and cook for another 2-3 minutes.\n6. Add garam masala and salt to taste.\n7. Add cubed paneer and cook for another 5-7 minutes.\n8. Serve hot with rice or naan.",
+            "rating": 4.7
+          },
+          {
+            "name": "Aloo Gobi",
+            "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/09/Indian-Aloo-Gobi-480x270.jpg",
+            "ingredients": [
+              "potatoes",
+              "cauliflower",
+              "onion",
+              "tomatoes",
+              "ginger",
+              "cumin"
+            ],
+            "cooking_method": "1. Cut potatoes and cauliflower into small pieces.\n2. Heat oil in a large skillet. Add cumin seeds and cook for 1-2 minutes.\n3. Add chopped onions and cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add diced tomatoes and cook until soft.\n6. Add potatoes and cauliflower and mix well.\n7. Add garam masala and salt to taste.\n8. Cover and cook on medium heat for 15-20 minutes.\n9. Serve hot with rice or naan.",
+            "rating": 4.5
+          }
+        ]
+      },
+    {
+        "_id": 5,
+        "name": "Kajal Roy",
+        "picture": "https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?w=740&t=st=1683130446~exp=1683131046~hmac=fdc17727a8156f126f28648a88166ef2a120cbe478f198dd6af08a24982612d3",
+        "year_of_experience": 8,
+        "likes": 3400,
+        "bio": "Kajal roy is a skilled chef with over 8 years of experience in Indian cuisine. He is passionate about creating dishes that are not only delicious but also visually appealing.",
+        "number_of_recipes": 13,
+        "recipes": [
+          {
+            "name": "Butter Chicken",
+            "image": "https://www.countdown.co.nz/Content/Recipes/227490_ButterChicken_large_810x570.jpg",
+            "ingredients": [
+              "chicken",
+              "tomatoes",
+              "cream",
+              "onion",
+              "ginger",
+              "garlic"
+            ],
+            "cooking_method": "1. Marinate the chicken in a mixture of yogurt, ginger, garlic, and spices for at least 2 hours.\n2. Grill the marinated chicken until cooked.\n3. In a large skillet, heat oil and add onions. Cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add diced tomatoes and cook until soft.\n6. Add cream and mix well.\n7. Add grilled chicken and cook for another 5 minutes.\n8. Serve hot with rice or naan.",
+            "rating": 4.3
+          },
+          {
+            "name": "Palak Paneer",
+            "image": "https://www.seriouseats.com/thmb/lhYY8CqBJoDwxj57KFAiY9pORhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+            "ingredients": [
+              "spinach",
+              "paneer",
+              "onion",
+              "ginger",
+              "garlic",
+              "garam masala"
+            ],
+            "cooking_method": "1. Boil spinach in water for 5-7 minutes. Drain and let it cool.\n2. Blend the boiled spinach to make a smooth puree.\n3. Heat oil in a large skillet. Add onions and cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add the spinach puree and cook for another 2-3 minutes.\n6. Add garam masala and salt to taste.\n7. Add cubed paneer and cook for another 5-7 minutes.\n8. Serve hot with rice or naan.",
+            "rating": 4.7
+          },
+          {
+            "name": "Aloo Gobi",
+            "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/09/Indian-Aloo-Gobi-480x270.jpg",
+            "ingredients": [
+              "potatoes",
+              "cauliflower",
+              "onion",
+              "tomatoes",
+              "ginger",
+              "cumin"
+            ],
+            "cooking_method": "1. Cut potatoes and cauliflower into small pieces.\n2. Heat oil in a large skillet. Add cumin seeds and cook for 1-2 minutes.\n3. Add chopped onions and cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add diced tomatoes and cook until soft.\n6. Add potatoes and cauliflower and mix well.\n7. Add garam masala and salt to taste.\n8. Cover and cook on medium heat for 15-20 minutes.\n9. Serve hot with rice or naan.",
+            "rating": 4.5
+          }
+        ]
+      },
+    {
+        "_id": 6,
+        "name": "Anit Kumar",
+        "picture": "https://img.freepik.com/free-photo/handsome-handsome-guy-posing-against-white-wall_176420-32958.jpg?w=360",
+        "year_of_experience": 8,
+        "likes": 4200,
+        "bio": "Anit Kumar is a skilled chef with over 8 years of experience in Indian cuisine. He is passionate about creating dishes that are not only delicious but also visually appealing.",
+        "number_of_recipes": 3,
+        "recipes": [
+          {
+            "name": "Butter Chicken",
+            "image": "https://www.countdown.co.nz/Content/Recipes/227490_ButterChicken_large_810x570.jpg",
+            "ingredients": [
+              "chicken",
+              "tomatoes",
+              "cream",
+              "onion",
+              "ginger",
+              "garlic"
+            ],
+            "cooking_method": "1. Marinate the chicken in a mixture of yogurt, ginger, garlic, and spices for at least 2 hours.\n2. Grill the marinated chicken until cooked.\n3. In a large skillet, heat oil and add onions. Cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add diced tomatoes and cook until soft.\n6. Add cream and mix well.\n7. Add grilled chicken and cook for another 5 minutes.\n8. Serve hot with rice or naan.",
+            "rating": 4.9
+          },
+          {
+            "name": "Palak Paneer",
+            "image": "https://www.seriouseats.com/thmb/lhYY8CqBJoDwxj57KFAiY9pORhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220629-PalakPaneer-Amanda-Suarez-hero-a2fdf0f3ff5141dfbf44d3977678c578.JPG",
+            "ingredients": [
+              "spinach",
+              "paneer",
+              "onion",
+              "ginger",
+              "garlic",
+              "garam masala"
+            ],
+            "cooking_method": "1. Boil spinach in water for 5-7 minutes. Drain and let it cool.\n2. Blend the boiled spinach to make a smooth puree.\n3. Heat oil in a large skillet. Add onions and cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add the spinach puree and cook for another 2-3 minutes.\n6. Add garam masala and salt to taste.\n7. Add cubed paneer and cook for another 5-7 minutes.\n8. Serve hot with rice or naan.",
+            "rating": 4.7
+          },
+          {
+            "name": "Aloo Gobi",
+            "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/09/Indian-Aloo-Gobi-480x270.jpg",
+            "ingredients": [
+              "potatoes",
+              "cauliflower",
+              "onion",
+              "tomatoes",
+              "ginger",
+              "cumin"
+            ],
+            "cooking_method": "1. Cut potatoes and cauliflower into small pieces.\n2. Heat oil in a large skillet. Add cumin seeds and cook for 1-2 minutes.\n3. Add chopped onions and cook until golden brown.\n4. Add ginger and garlic and cook for 2-3 minutes.\n5. Add diced tomatoes and cook until soft.\n6. Add potatoes and cauliflower and mix well.\n7. Add garam masala and salt to taste.\n8. Cover and cook on medium heat for 15-20 minutes.\n9. Serve hot with rice or naan.",
+            "rating": 4.5
+          }
+        ]
+      }
+      
+
+]

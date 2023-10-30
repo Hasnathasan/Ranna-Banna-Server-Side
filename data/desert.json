@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "picture": "https://static.toiimg.com/thumb/53096885.cms?imgsize=1572013&width=800&height=800",
+        "food_name": "Chocolate Cake",
+        "detail": "Indulge in a rich, fudgy chocolate cake topped with silky ganache. Perfect for special occasions or as a decadent treat."
+    },
+    {
+        "id": 2,
+        "picture": "https://bakingamoment.com/wp-content/uploads/2023/03/IMG_1706-lemon-tart.jpg",
+        "food_name": "Lemon Tart",
+        "detail": "Bright and zesty lemon filling in a flaky butter crust. Perfect for refreshing and tangy dessert lovers."
+    },
+    {
+        "id": 3,
+        "picture": "https://www.thespruceeats.com/thmb/FVgJ6FkRjHenPPYHJgVrnEAHjyo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/strawberry-cheesecake-4588014-03-5a5769c5f121456c8b4aa5c7c6e06f61.jpg",
+        "food_name": "Strawberry Cheesecake",
+        "detail": "Creamy cheesecake with a graham cracker crust and fresh strawberry topping. Perfect for summer parties and sweet cravings."
+    },
+    {
+        "id": 4,
+        "picture": "https://images.themodernproper.com/billowy-turkey/production/posts/2022/ApplePie_12.jpg?w=960&h=960&q=82&fm=jpg&fit=crop&dm=1663188225&s=92fdaf11bbcfa4bbfef6492ee62d2ee7",
+        "food_name": "Apple Pie",
+        "detail": "Classic American dessert made with tart apples and flaky crust. Perfect for fall gatherings and comforting desserts."
+    },
+    {
+        "id": 5,
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/5/58/Tiramisu_-_Raffaele_Diomede.jpg",
+        "food_name": "Tiramisu",
+        "detail": "Layers of espresso-soaked ladyfingers, creamy mascarpone filling, and cocoa powder. Perfect for Italian food lovers."
+    },
+    {
+        "id": 6,
+        "picture": "https://static.onecms.io/wp-content/uploads/sites/43/2022/06/09/12698-Easy-Key-Lime-Pie-ddmfs-103444-4x3-1.jpg",
+        "food_name": "Key Lime Pie",
+        "detail": "Tangy lime filling in a buttery graham cracker crust. Perfect for citrus lovers and summer desserts."
+    }
+]
